@@ -1,0 +1,4 @@
+timestamp,x_position,y_position,page,time_spent
+1614505212345,100,200,http://example.com/page1.html,5000
+1614505215678,150,250,http://example.com/page1.html,8000
+1614505221234,120,220,http://example.com/page2.html,6000
